@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D809B1C-C517-4665-A500-535E7B82E24E}</ProjectGuid>
+    <ProjectGuid>{A7398853-855F-4BB9-80C3-3770F75751C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tutorial_18_Serialization</RootNamespace>
-    <AssemblyName>Tutorial 18 Serialization</AssemblyName>
+    <RootNamespace>Tutorial_04___Methods_Enum</RootNamespace>
+    <AssemblyName>Tutorial 04 - Methods Enum</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

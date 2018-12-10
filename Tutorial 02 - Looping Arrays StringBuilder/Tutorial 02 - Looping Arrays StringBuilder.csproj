@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D809B1C-C517-4665-A500-535E7B82E24E}</ProjectGuid>
+    <ProjectGuid>{F5132AD1-99F0-42AD-AE60-4E6232F54D46}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tutorial_18_Serialization</RootNamespace>
-    <AssemblyName>Tutorial 18 Serialization</AssemblyName>
+    <RootNamespace>Tutorial_02___Looping_Arrays_StringBuilder</RootNamespace>
+    <AssemblyName>Tutorial 02 - Looping Arrays StringBuilder</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

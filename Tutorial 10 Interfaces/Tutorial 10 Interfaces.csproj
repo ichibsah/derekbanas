@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D809B1C-C517-4665-A500-535E7B82E24E}</ProjectGuid>
+    <ProjectGuid>{52B63CA1-5FE0-44DF-8A6B-A1767324EE5F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tutorial_18_Serialization</RootNamespace>
-    <AssemblyName>Tutorial 18 Serialization</AssemblyName>
+    <RootNamespace>Tutorial_10_Interfaces</RootNamespace>
+    <AssemblyName>Tutorial 10 Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
+    <Compile Include="ICommand.cs" />
+    <Compile Include="IDrivable.cs" />
+    <Compile Include="IElectronicDevice.cs" />
+    <Compile Include="PowerButton.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Television.cs" />
+    <Compile Include="TVRemote.cs" />
+    <Compile Include="Vehicle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D809B1C-C517-4665-A500-535E7B82E24E}</ProjectGuid>
+    <ProjectGuid>{1B4206A6-8020-4517-A26E-7DE23D940953}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tutorial_18_Serialization</RootNamespace>
-    <AssemblyName>Tutorial 18 Serialization</AssemblyName>
+    <RootNamespace>Tutorial_12_Generics</RootNamespace>
+    <AssemblyName>Tutorial 12 Generics</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

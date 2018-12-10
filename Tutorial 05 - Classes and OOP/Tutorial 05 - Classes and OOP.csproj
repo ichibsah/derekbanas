@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D809B1C-C517-4665-A500-535E7B82E24E}</ProjectGuid>
+    <ProjectGuid>{0506CD2C-8609-4618-A194-F10BA9217A0F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tutorial_18_Serialization</RootNamespace>
-    <AssemblyName>Tutorial 18 Serialization</AssemblyName>
+    <RootNamespace>Tutorial_05___Classes_and_OOP</RootNamespace>
+    <AssemblyName>Tutorial 05 - Classes and OOP</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,6 +46,7 @@
     <Compile Include="Animal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShapeMath.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
