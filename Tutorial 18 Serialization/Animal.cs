@@ -1,6 +1,4 @@
-﻿// ---------- Animal.cs ----------
-
-using System;
+﻿using System;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 
