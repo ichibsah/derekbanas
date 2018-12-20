@@ -47,6 +47,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 21 Toolbars", "Tut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 22 InkCanvas and Key Listeners", "Tutorial 22 InkCanvas and Key Listeners\Tutorial 22 InkCanvas and Key Listeners.csproj", "{432F97CD-628C-47FE-989A-92064F707C0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 23 Document API", "Tutorial 23 Document API\Tutorial 23 Document API.csproj", "{DEE4AA64-1CEE-43A9-96B6-2D5D59462618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 24 Paint App", "Tutorial 24 Paint App\Tutorial 24 Paint App.csproj", "{6C70A6CC-6716-48D6-A44D-714B034EB38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 25 CSharp Databases", "Tutorial 25 CSharp Databases\Tutorial 25 CSharp Databases.csproj", "{F06C56AB-F954-49D1-855E-8EE0EAA893AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +147,18 @@ Global
 		{432F97CD-628C-47FE-989A-92064F707C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{432F97CD-628C-47FE-989A-92064F707C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{432F97CD-628C-47FE-989A-92064F707C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE4AA64-1CEE-43A9-96B6-2D5D59462618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE4AA64-1CEE-43A9-96B6-2D5D59462618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE4AA64-1CEE-43A9-96B6-2D5D59462618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE4AA64-1CEE-43A9-96B6-2D5D59462618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C70A6CC-6716-48D6-A44D-714B034EB38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C70A6CC-6716-48D6-A44D-714B034EB38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C70A6CC-6716-48D6-A44D-714B034EB38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C70A6CC-6716-48D6-A44D-714B034EB38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06C56AB-F954-49D1-855E-8EE0EAA893AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06C56AB-F954-49D1-855E-8EE0EAA893AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06C56AB-F954-49D1-855E-8EE0EAA893AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06C56AB-F954-49D1-855E-8EE0EAA893AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
